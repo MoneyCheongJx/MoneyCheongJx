@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Header](./Jx.jpg)
-
 🌱 I am currently a final year Software Engineering Student in University of Malaya. As a dedicated and analytical student pursuing Bachelor of Computer Science (Software Engineering), I am passionate in leveraging modern software development practices. I am eager to apply my theoretical knowledge, problem-solving abilities, modern software technology stack and industrial training experience in contributing to real-world projects. I am actively seeking for an opportunity to  engage with continuous professional growth and development and translate my theoretical knowledge and analytical abilities into practice.
 
 ## 😄 Expectation on WIF3005 SOFTWARE MAINTENANCE AND EVOLUTION
